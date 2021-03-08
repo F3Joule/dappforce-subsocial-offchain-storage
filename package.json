@@ -50,10 +50,10 @@
   },
   "dependencies": {
     "@elastic/elasticsearch": "7.4.0",
-    "@subsocial/api": "^0.4.33",
-    "@subsocial/types": "^0.4.33",
+    "@subsocial/api": "^0.4.35-beta.1",
+    "@subsocial/types": "^0.4.35-beta.1",
     "@subsocial/utils": "0.4.38",
-    "@polkadot/types": "^3.8.1",
+    "@polkadot/types": "^3.10.2",
     "@types/email-templates": "^8.0.0",
     "@types/handlebars": "^4.1.0",
     "@types/node-cron": "^2.0.3",
